@@ -15,3 +15,4 @@ This code shows a simple routine to print strings while removing the previous on
 
 This code was written in Python using the libraries:
 - Time
+- Sys
